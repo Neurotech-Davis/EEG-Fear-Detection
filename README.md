@@ -21,4 +21,4 @@ Given our results, we hope to have laid foundational research for developing neu
 Special thanks to the Neurotech@Davis Projects board members, especially Adit and Dhruv, for helping us get the code into place. WIthout them, this project wouldn't be anything close to where it is now.
 
 # 7. Contact
-(Manik Sethi)[https://www.linkedin.com/in/manik-sethi/]
+[Manik Sethi](https://www.linkedin.com/in/manik-sethi/)
